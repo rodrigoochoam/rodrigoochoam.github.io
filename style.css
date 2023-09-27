@@ -3,7 +3,6 @@
     font-size: 13px;
 }
 
-/* Add your custom styles here */
 body {
     font-family: 'Martian Mono', monospace;
 }
@@ -22,15 +21,14 @@ body {
 
 /* Apply hover effect to the navigation links */
 .navbar-nav .nav-link:hover {
-    background-color: #636c74; /* Background color on hover */
-    color: #fff; /* Text color on hover */
+    background-color: #636c74; 
+    color: #fff; 
     transition: background-color 0.3s, color 0.3s; /* Smooth transition */
 }
 
-/* Adjust the button-like appearance */
 .navbar-nav .nav-link {
-    padding: 10px 15px; /* Padding for button-like appearance */
-    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px; 
+    border-radius: 5px; 
 }
 
 
@@ -53,7 +51,7 @@ body {
     padding: 20px;
 }
 
-/* Center the video */
+
 .video-container {
     display: flex;
     flex-direction: column;
@@ -84,10 +82,10 @@ body {
     margin-top: 20px;
 }
 
-/* Style your links */
+/* Links Style */
 a {
     text-decoration: none;
-    color: #007BFF;
+    color: #6b0000;
 }
 
 a:hover {

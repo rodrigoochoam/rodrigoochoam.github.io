@@ -84,12 +84,12 @@ body {
 
 /* Links Style */
 a {
-    text-decoration: none;
-    color: #6b0000;
+    text-decoration: none !important;
+    color: #6b0000 !important;
 }
 
 a:hover {
-    color: #0056b3;
+    color: #c20000;
 }
 
 /* Style the added image */
